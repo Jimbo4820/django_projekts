@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fbff2ea-4c14-446c-a128-4b3027ec358f" name="Changes" comment="add_mail_authenticate_commit">
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/account/user/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/account/user/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/actions/action/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/actions/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/static/css/bookmarklet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/static/js/bookmarklet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/templates/bookmarklet_launcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/templates/images/image/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/templates/images/image/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/templates/images/image/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/templates/images/image/list_images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/images/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/account/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/bookmarks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/bookmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/bookmarks/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test_soc_site/bookmarks/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_test_soc_site/bookmarks/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WLP1Aq0L6u4njsKJ4Za8V2cbHl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main__with__soc__site&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Progekt_test/django_projekts&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Progekt_test\django_projekts\my_test_soc_site\bookmarks\account\templates\account" />
+      <recent name="E:\Progekt_test\django_projekts\my_test_soc_site\bookmarks\account\templates" />
+      <recent name="E:\Progekt_test\django_projekts\my_test_soc_site\bookmarks\images\templates\images" />
+      <recent name="E:\Progekt_test\django_projekts\my_test_soc_site" />
+      <recent name="E:\Progekt_test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fbff2ea-4c14-446c-a128-4b3027ec358f" name="Changes" comment="" />
+      <created>1696508669916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696508669916</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update_commit">
+      <created>1696855851991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855851991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update_commit">
+      <created>1696946043719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696946043719</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update_commit">
+      <created>1697204583391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697204583391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="last_commit">
+      <created>1698051576335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698051576335</updated>
+    </task>
+    <task id="LOCAL-00005" summary="last_commit">
+      <created>1698051713378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698051713378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="last_commit">
+      <created>1698052765560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698052765560</updated>
+    </task>
+    <task id="LOCAL-00007" summary="last_commit">
+      <created>1698053721037</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698053721037</updated>
+    </task>
+    <task id="LOCAL-00008" summary="last_commit">
+      <created>1698053778854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698053778854</updated>
+    </task>
+    <task id="LOCAL-00009" summary="last_commit">
+      <created>1698055032706</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698055032706</updated>
+    </task>
+    <task id="LOCAL-00010" summary="last_commit">
+      <created>1698058400638</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698058400638</updated>
+    </task>
+    <task id="LOCAL-00011" summary="last_commit">
+      <created>1698058534790</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698058534790</updated>
+    </task>
+    <task id="LOCAL-00012" summary="last_commit">
+      <created>1698059733378</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698059733378</updated>
+    </task>
+    <task id="LOCAL-00013" summary="last_commit">
+      <created>1698061558097</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698061558097</updated>
+    </task>
+    <task id="LOCAL-00014" summary="last_commit">
+      <created>1698067573737</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698067573737</updated>
+    </task>
+    <task id="LOCAL-00015" summary="first_commit">
+      <created>1698328270517</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698328270517</updated>
+    </task>
+    <task id="LOCAL-00016" summary="first_commit">
+      <created>1698328341049</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698328341049</updated>
+    </task>
+    <task id="LOCAL-00017" summary="first_commit">
+      <created>1698328354687</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698328354687</updated>
+    </task>
+    <task id="LOCAL-00018" summary="first_commit">
+      <created>1698390197861</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1698390197861</updated>
+    </task>
+    <task id="LOCAL-00019" summary="first_commit">
+      <created>1698390331153</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1698390331153</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add_mail_authenticate_commit">
+      <created>1698407072011</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698407072011</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="new_branch_check" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update_commit" />
+    <MESSAGE value="last_commit" />
+    <MESSAGE value="first_commit" />
+    <MESSAGE value="add_mail_authenticate_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_mail_authenticate_commit" />
+  </component>
+</project>
