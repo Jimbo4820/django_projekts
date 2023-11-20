@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-i&frv&8fb-)-zurueq4a&op$aq94l_$=i&zmwyv3vwkqzttj7y'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -142,8 +142,8 @@ CSRF_TRUSTED_ORIGINS = [
 # configuration server for email
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'dima.daster.5355@gmail.com'
-EMAIL_HOST_PASSWORD = 'eaqzqdhhjrapdkib'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
@@ -155,8 +155,8 @@ SOCIAL_AUTH_FACEBOOK_KEY = 'xxxxx'
 SOCIAL_AUTH_FACEBOOK_SECRET = 'xxxxx'
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email']
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '1005366878695-t20uug124kcj7eoi75i3m6j2ol14986u.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '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'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = ''
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = ''
 # SOCIAL_AUTH_FACEBOOK_SCOPE = ['email']
 
 AUTHENTICATION_BACKENDS = [
